@@ -1,0 +1,1 @@
+export async function runFF2S(prompt: string){return "mock full response";}

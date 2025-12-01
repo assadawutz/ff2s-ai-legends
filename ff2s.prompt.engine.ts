@@ -1,0 +1,1 @@
+export const patterns = {}; export function applyPattern(name:string,data:Record<string,string>){return "";}

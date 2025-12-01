@@ -1,0 +1,1 @@
+export default function Home(){return <div>FF2S AI Legends Bootstrap</div>}

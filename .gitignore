@@ -3,7 +3,7 @@
 /out/                 # next export output
 /build                # production build
 .env*                 # environment files (.env.local, .env.production, etc.)
-.DS_Store             # macOS metadata
+/.DS_Store             # macOS metadata
 *.pem                 # private key / cert
 npm-debug.log*
 yarn-debug.log*

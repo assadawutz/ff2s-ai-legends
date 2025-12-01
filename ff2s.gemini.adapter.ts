@@ -1,0 +1,1 @@
+export const GEMINI_KEY = process.env.GEMINI_KEY || ""; export async function queryGemini(prompt:string){return {result:"mock"}}
